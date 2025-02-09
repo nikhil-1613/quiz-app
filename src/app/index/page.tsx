@@ -16,8 +16,8 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gray-900 text-white">
-      <h1 className="text-3xl font-bold mb-4">Welcome to the Quiz!</h1>
+    <div className="flex flex-col items-center justify-center h-screen bg-gray-100 text-white">
+      <h1 className="text-3xl font-bold mb-4 text-black">Welcome to the Quiz!</h1>
       <input
         type="text"
         placeholder="Enter your name"
