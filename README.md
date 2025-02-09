@@ -16,3 +16,5 @@ Open localhost:3000 and enjoy the quiz!
 ![WhatsApp Image 2025-02-09 at 16 42 01_01d6b581](https://github.com/user-attachments/assets/269a330c-a0c6-42c6-9c94-b730da1bc9fc)
 ![WhatsApp Image 2025-02-09 at 16 42 35_8b04dff1](https://github.com/user-attachments/assets/a0f50a50-9983-4df8-8eb5-0a045f9fca44)
 ![WhatsApp Image 2025-02-09 at 16 43 03_d360c07c](https://github.com/user-attachments/assets/bb3aadcc-5ab9-418f-9aa5-7dcd28c118c3)
+
+
